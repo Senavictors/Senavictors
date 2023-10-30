@@ -2,8 +2,10 @@
 
 <p align="center">My name is Victor, a 22-year-old Front-End Developer with a passion for creating web experiences. As I continue my journey, I'm working towards becoming a versatile Full-Stack Developer. Let's code together and make the web a better place!🚀💻</p>&nbsp;
 
-
 ## My Skills
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senavictors&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senavictors&hide_progress=true&theme=tokyonight)
+
 
 #### Main Stack:
 
