@@ -1,7 +1,7 @@
 
 
 ## My name is Victor Sena
-(React JS | Javascript | HTML | CSS | Typescript) 🚀
+(React JS | Javascript | HTML | CSS) 🚀
 - 👨🏾‍💻 Tech Analyst in Allcom Telecom
 - 🎓 System Analysis and Development Student.
 - 🌐 Passionate about web development
