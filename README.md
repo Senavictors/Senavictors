@@ -1,5 +1,5 @@
-(React JS | Javascript | HTML | CSS) 🚀
-- 👨🏾‍💻 Tech Analyst in Allcom Telecom
+
+- 👨🏾‍💻 Software Developer in Allcom Telecom
 - 🎓 System Analysis and Development Student.
 - 🌐 Passionate about web development
 
