@@ -1,7 +1,6 @@
 
 - 👨🏾‍💻 Software Developer in Allcom Telecom
-- 🎓 System Analysis and Development Student.
-- 🌐 Passionate about web development
+- 🎓 Graduated in systems analysis and development
 
 
 ## My Skills
