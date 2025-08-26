@@ -1,10 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 # I'm Victor Sena 👋  
 
 💻 **Software Developer** at **Allcom Telecom**  
 🎓 **Graduated** in *Systems Analysis and Development*  
 🚀 Passionate about building modern, scalable, and efficient applications.
+
+---
+## 📫 Contact Me
+<div>
+  <a href="https://www.instagram.com/senavictors" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:victorsena760@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/senavictors/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 ---
 
@@ -32,29 +45,3 @@ I specialize in creating web solutions using modern tools and frameworks, with e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senavictors&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Senavictors/github-readme-stats)
 
 ---
-
-## 📚 Currently Improving
-- Advanced **React** patterns and performance optimization
-- **Next.js** for high-performance and SEO-friendly applications
-- **Laravel** best practices and API development
-- **Docker** for containerized and scalable solutions
-
----
-
-## 📫 Contact Me
-
-<div>
-  <a href="https://www.instagram.com/senavictors" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:victorsena760@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/senavictors/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
