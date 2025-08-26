@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-# 👋 Hello, I'm Victor Sena
+# I'm Victor Sena 👋  
 
 💻 **Software Developer** at **Allcom Telecom**  
 🎓 **Graduated** in *Systems Analysis and Development*  
