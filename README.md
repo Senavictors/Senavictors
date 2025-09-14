@@ -23,7 +23,7 @@
 
 ## 🛠️ Main Technologies
 
-I specialize in creating web solutions using modern tools and frameworks, with experience in both **frontend** and **backend** development.
+I am a fullstack developer with a strong focus on backend development. I have experience building web solutions using modern tools and frameworks, working on both server-side and frontend development. My work emphasizes scalability, performance, and best coding practices.
 
 ### **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
