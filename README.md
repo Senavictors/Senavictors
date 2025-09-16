@@ -1,7 +1,7 @@
 
 # I'm Victor Sena 👋  
 
-💻 **Software Developer** at **Allcom Telecom**  
+💻 **FullStack Developer** at **Allcom Telecom**  
 🎓 **Graduated** in *Systems Analysis and Development*  
 🚀 Passionate about building modern, scalable, and efficient applications.
 
