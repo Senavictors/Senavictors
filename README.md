@@ -41,10 +41,3 @@ I am a Backend developer with experience building web solutions using modern too
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 
 ---
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senavictors&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
