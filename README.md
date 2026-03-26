@@ -1,11 +1,20 @@
 
-# I'm Victor Sena 👋  
+# Hi, I'm Victor Sena 👋
 
-💻 **Backend Developer** at **Allcom Telecom**  
-🎓 **Graduated** in *Systems Analysis and Development*  
-🚀 Passionate about building modern, scalable, and efficient applications.
+💻 Backend Developer at **Allcom Telecom**  
+🎓 Degree in **Systems Analysis and Development**  
+🚀 Focused on building **APIs, business rules, and scalable web systems** with **PHP/Laravel, Python, Docker, and MySQL**
+
+I work mainly on backend development, creating robust services and business-driven solutions with attention to architecture, maintainability, and performance.
+
+### What I’m currently focused on
+- CRM systems and internal platforms
+- API design and backend architecture
+- Business-rule automation
+- Scalable applications with Laravel, MySQL, Docker, and Python
 
 ---
+
 ## 📫 Contact Me
 <div>
   <a href="https://www.instagram.com/senavictors" target="_blank">
@@ -23,8 +32,6 @@
 
 ## 🛠️ Main Technologies
 
-I am a Backend developer with experience building web solutions using modern tools and frameworks. I work on developing APIs and services, focusing on scalable architecture, performance, code quality, and best practices.
-
 ### **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
@@ -33,11 +40,5 @@ I am a Backend developer with experience building web solutions using modern too
 ### **DevOps & Database**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-### **Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 
 ---
