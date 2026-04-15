@@ -1,21 +1,21 @@
 
-# Hi, I'm Victor Sena 👋
+# Olá, eu sou o Victor Sena 👋
 
-💻 Backend Developer at **Allcom Telecom**  
-🎓 Degree in **Systems Analysis and Development**  
-🚀 Focused on building **APIs, business rules, and scalable web systems** with **PHP/Laravel, Python, Docker, and MySQL**
+💻 Desenvolvedor Backend na Allcom Telecom
+🎓 Formação em Análise e Desenvolvimento de Sistemas
+🚀 Focado em construir APIs, regras de negócio e sistemas web escaláveis com PHP/Laravel, Python, Docker e MySQL
 
-I work mainly on backend development, creating robust services and business-driven solutions with attention to architecture, maintainability, and performance.
+Atuo principalmente no desenvolvimento backend, criando serviços robustos e soluções orientadas ao negócio, com atenção à arquitetura, manutenibilidade e performance.
 
-### What I’m currently focused on
-- CRM systems and internal platforms
-- API design and backend architecture
-- Business-rule automation
-- Scalable applications with Laravel, MySQL, Docker, and Python
+### No que estou focado atualmente
+Sistemas CRM e plataformas internas
+Design de APIs e arquitetura backend
+Automação de regras de negócio
+Aplicações escaláveis com Laravel, MySQL, Docker e Python
 
 ---
 
-## 📫 Contact Me
+## 📫 Contato
 <div>
   <a href="https://www.instagram.com/senavictors" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -30,14 +30,14 @@ I work mainly on backend development, creating robust services and business-driv
 
 ---
 
-## 🛠️ Main Technologies
+## 🛠️ Principais Tecnoglogias
 
 ### **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)&nbsp;
 
-### **DevOps & Database**
+### **DevOps & Banco de Dados**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
