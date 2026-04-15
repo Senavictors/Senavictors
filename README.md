@@ -10,10 +10,10 @@
 Atuo principalmente no desenvolvimento backend, criando serviços robustos e soluções orientadas ao negócio, com atenção à arquitetura, manutenibilidade e performance.
 
 ### No que estou focado atualmente
-Sistemas CRM e plataformas internas
-Design de APIs e arquitetura backend
-Automação de regras de negócio
-Aplicações escaláveis com Laravel, MySQL, Docker e Python
+- Sistemas CRM e plataformas internas
+- Design de APIs e arquitetura backend
+- Automação de regras de negócio
+- Aplicações escaláveis com Laravel, MySQL, Docker e Python
 
 ---
 
