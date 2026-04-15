@@ -2,7 +2,9 @@
 # Olá, eu sou o Victor Sena 👋
 
 💻 Desenvolvedor Backend na Allcom Telecom
+
 🎓 Formação em Análise e Desenvolvimento de Sistemas
+
 🚀 Focado em construir APIs, regras de negócio e sistemas web escaláveis com PHP/Laravel, Python, Docker e MySQL
 
 Atuo principalmente no desenvolvimento backend, criando serviços robustos e soluções orientadas ao negócio, com atenção à arquitetura, manutenibilidade e performance.
