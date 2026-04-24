@@ -4,7 +4,7 @@
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 🌐 [Portfólio](https://portifolio-victor-sena.vercel.app/)
 
-Desenvolvedor Backend com foco em PHP/Laravel e experiência full stack com Next.js e TypeScript. Atuo no desenvolvimento de APIs REST, modelagem de domínios transacionais, autenticação, autorização e regras de negócio. Nos projetos pessoais, entreguei um CRM com 9 frentes operacionais e um sistema financeiro com transferências atômicas e dashboard customizável.
+Desenvolvedor Backend com foco em PHP/Laravel e experiência full stack com Next.js e TypeScript. Atuo no desenvolvimento de APIs REST, modelagem de domínios transacionais, autenticação, autorização e regras de negócio. Nos projetos pessoais, entreguei um CRM com 9 frentes operacionais, um sistema financeiro com transferências atômicas e um SaaS clínico para fisioterapeutas.
 
 ---
 
@@ -31,6 +31,19 @@ Sistema full stack de gestão financeira pessoal para centralizar contas, transa
 - Recorrências com apply idempotente e logs de execução
 - Dashboard customizável com drag-and-drop e layout persistido por usuário
 - 25 route handlers cobrindo autenticação, finanças, analytics e dashboard
+
+---
+
+### [PhysioFlow](https://github.com/Senavictors/PhisioFlow)
+SaaS de gestão clínica para fisioterapeutas que centraliza todo o fluxo Cadastro → Atendimento → Evolução → Documentação.
+
+`Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS`
+
+- Arquitetura multi-tenant com isolamento total de dados por usuário (userId em todas as queries)
+- Registro SOAP padronizado com timeline cronológica de evolução do paciente
+- Geração de laudos e relatórios em PDF on-demand via @react-pdf/renderer
+- Dashboard de KPIs com gráfico semanal, alertas de inatividade e ações rápidas
+- Logística domiciliar com priorização de atendimentos e agenda filtrada por tipo
 
 ---
 
