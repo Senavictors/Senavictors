@@ -1,6 +1,6 @@
 # Olá, eu sou o Victor Sena 👋
 
-💻 Desenvolvedor Backend na Allcom Telecom
+💻 Desenvolvedor FullStack na Allcom Telecom
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 🌐 [Acesse meu Portifolio](https://portifolio-victor-sena.vercel.app/)
@@ -22,6 +22,8 @@ CRM full stack para centralizar catálogo, pedidos, envios, pós-venda e metas c
 - Pós-venda com garantias, trocas, devoluções e fila de reenvio
 - Metas de vendas com filtros por catálogo e progresso em tempo real
 
+---
+
 ### [Finance Controller](https://github.com/Senavictors/Finance-Controller)
 Sistema full stack de gestão financeira pessoal para centralizar contas, transações, recorrências e analytics.
 
@@ -36,15 +38,16 @@ Sistema full stack de gestão financeira pessoal para centralizar contas, transa
 ---
 
 ### [PhysioFlow](https://github.com/Senavictors/PhisioFlow)
-SaaS de gestão clínica para fisioterapeutas que centraliza todo o fluxo Cadastro → Atendimento → Evolução → Documentação.
+SaaS de gestão clínica para fisioterapeutas que centraliza todo o fluxo
+Cadastro → Atendimento → Evolução → Documentação → Cobrança.
 
-`Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS`
+`Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS` `Zod`
 
-- Arquitetura multi-tenant com isolamento total de dados por usuário (userId em todas as queries)
-- Registro SOAP padronizado com timeline cronológica de evolução do paciente
-- Geração de laudos e relatórios em PDF on-demand via @react-pdf/renderer
-- Dashboard de KPIs com gráfico semanal, alertas de inatividade e ações rápidas
-- Logística domiciliar com priorização de atendimentos e agenda filtrada por tipo
+- Arquitetura multi-tenant em camadas (UI → Route Handlers → Use Cases → Domain → Repositories) com isolamento total por `userId` em todas as queries
+- Registro SOAP, timeline de evolução e geração on-demand de laudos PDF via `@react-pdf/renderer`
+- Multi-modalidade clínica: planos de tratamento por área/especialidade com cobrança avulsa ou em pacote
+- Financeiro integrado: pagamentos com snapshot `expectedFee`, dashboard de recebido vs previsto, série temporal e quebras por local/área
+- Integrações nativas: Gmail (App Password com AES-256-GCM) para envio de avisos/laudos e Google Calendar (OAuth) com sync por sessão
 
 ---
 
