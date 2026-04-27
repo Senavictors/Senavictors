@@ -2,7 +2,8 @@
 
 💻 Desenvolvedor Backend na Allcom Telecom
 🎓 Formado em Análise e Desenvolvimento de Sistemas
-🌐 [Portfólio](https://portifolio-victor-sena.vercel.app/)
+
+🌐 [Acesse meu Portifolio](https://portifolio-victor-sena.vercel.app/)
 
 Desenvolvedor Backend com foco em PHP/Laravel e experiência full stack com Next.js e TypeScript. Atuo no desenvolvimento de APIs REST, modelagem de domínios transacionais, autenticação, autorização e regras de negócio. Nos projetos pessoais, entreguei um CRM com 9 frentes operacionais, um sistema financeiro com transferências atômicas e um SaaS clínico para fisioterapeutas.
 
@@ -49,20 +50,19 @@ SaaS de gestão clínica para fisioterapeutas que centraliza todo o fluxo Cadast
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=senavictors&show_icons=true&theme=tokyonight"/>
+    <td align="center">
+      <img width="95%" src="https://github-readme-stats.vercel.app/api?username=senavictors&show_icons=true&theme=tokyonight" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senavictors&layout=compact&theme=tokyonight"/>
+    <td align="center">
+      <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senavictors&layout=compact&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img width="95%" src="https://streak-stats.demolab.com?user=senavictors&theme=tokyonight&locale=pt_BR" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=senavictors&theme=tokyonight&locale=pt_BR"/>
-</p>
 
 ## 🛠️ Principais Tecnologias
 
