@@ -49,19 +49,20 @@ SaaS de gestão clínica para fisioterapeutas que centraliza todo o fluxo Cadast
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=senavictors&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senavictors&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senavictors&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senavictors&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-  <img height="180em" src="https://streak-stats.demolab.com?user=senavictors&theme=tokyonight&locale=pt_BR"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=senavictors&theme=tokyonight&locale=pt_BR"/>
+</p>
 
 ## 🛠️ Principais Tecnologias
 
