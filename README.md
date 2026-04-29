@@ -13,16 +13,15 @@ Desenvolvedor Backend com foco em PHP/Laravel e experiência full stack com Next
 
 
 ### [GitWidgets](https://github.com/gitwidgets-org/gitwidgets)
-Engine open-source em TypeScript que gera widgets SVG dinâmicos para GitHub READMEs — stats, streak, resumo de linguagens, activity graph e muito mais — com temas unificados e entrega híbrida (live + offline).
- 
-`TypeScript` `Cloudflare Workers` `Hono` `Next.js 16` `Turborepo` `Vitest`
- 
-- Monorepo com três canais de entrega: API pública (Cloudflare Worker), GitHub Action e Web Dashboard com playground interativo
-- Engine de cache em três camadas: HTTP/CDN → KV (SVGs renderizados) → D1 (snapshots do GitHub com ETag), garantindo respostas < 30ms em cache hit
-- Sistema de temas tipado com tokens de design unificados — cada renderer recebe o tema como input, sem cores hard-coded em lugar algum
-- Pool de tokens GitHub com round-robin e suporte agressivo a ETags (304 Not Modified gratuitos), minimizando consumo de rate limit
-- Fallback de produto: retorna SVG anterior em cache com header `X-GitWidgets-Stale` enquanto revalida em background — nunca retorna JSON de erro para o README
-- Arquitetura com Durable Objects para visitor counter e controle de rate limit por token, D1 para snapshots e temas, KV para SVGs renderizados
+Engine open-source em TypeScript para gerar widgets SVG dinâmicos em READMEs do GitHub (stats, streak, linguagens, activity graph), com tema unificado e entrega híbrida (API + GitHub Action).
+
+`TypeScript` `Cloudflare Workers` `Hono` `Next.js 16`
+
+- API pública + GitHub Action + dashboard com playground
+- Cache multi-layer (CDN → KV → D1) com respostas rápidas em cache
+- Sistema de temas tipado (sem cores hard-coded)
+- Uso otimizado da API do GitHub com ETag + pool de tokens
+- Fallback inteligente: sempre retorna SVG, nunca erro no README
 
 ---
 
