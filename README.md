@@ -1,15 +1,30 @@
 # Olá, eu sou o Victor Sena 👋
 
-💻 Desenvolvedor FullStack na Allcom Telecom
+💻 Desenvolvedor Full Stack na Allcom Telecom <br>
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 🌐 [Acesse meu Portifolio](https://portifolio-victor-sena.vercel.app/)
 
-Desenvolvedor Backend com foco em PHP/Laravel e experiência full stack com Next.js e TypeScript. Atuo no desenvolvimento de APIs REST, modelagem de domínios transacionais, autenticação, autorização e regras de negócio. Nos projetos pessoais, entreguei um CRM com 9 frentes operacionais, um sistema financeiro com transferências atômicas e um SaaS clínico para fisioterapeutas.
+Desenvolvedor Backend com foco em PHP/Laravel e experiência full stack com Next.js e TypeScript. Atuo no desenvolvimento de APIs REST, modelagem de domínios transacionais, autenticação, autorização e regras de negócio. Nos projetos pessoais, entreguei um CRM com 9 frentes operacionais, um sistema financeiro com transferências atômicas, um SaaS clínico para fisioterapeutas e um engine open-source de SVG widgets para GitHub READMEs.
 
 ---
 
 ## 🚀 Projetos
+
+
+### [GitWidgets](https://github.com/gitwidgets-org/gitwidgets)
+Engine open-source em TypeScript que gera widgets SVG dinâmicos para GitHub READMEs — stats, streak, resumo de linguagens, activity graph e muito mais — com temas unificados e entrega híbrida (live + offline).
+ 
+`TypeScript` `Cloudflare Workers` `Hono` `Next.js 16` `Turborepo` `Vitest`
+ 
+- Monorepo com três canais de entrega: API pública (Cloudflare Worker), GitHub Action e Web Dashboard com playground interativo
+- Engine de cache em três camadas: HTTP/CDN → KV (SVGs renderizados) → D1 (snapshots do GitHub com ETag), garantindo respostas < 30ms em cache hit
+- Sistema de temas tipado com tokens de design unificados — cada renderer recebe o tema como input, sem cores hard-coded em lugar algum
+- Pool de tokens GitHub com round-robin e suporte agressivo a ETags (304 Not Modified gratuitos), minimizando consumo de rate limit
+- Fallback de produto: retorna SVG anterior em cache com header `X-GitWidgets-Stale` enquanto revalida em background — nunca retorna JSON de erro para o README
+- Arquitetura com Durable Objects para visitor counter e controle de rate limit por token, D1 para snapshots e temas, KV para SVGs renderizados
+
+---
 
 ### [Watch CRM](https://github.com/Senavictors/watch-crm)
 CRM full stack para centralizar catálogo, pedidos, envios, pós-venda e metas comerciais de uma operação de relojoaria.
@@ -74,6 +89,7 @@ Cadastro → Atendimento → Evolução → Documentação → Cobrança.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)&nbsp;
 
 ### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
@@ -86,6 +102,7 @@ Cadastro → Atendimento → Evolução → Documentação → Cobrança.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
 
 ---
 
