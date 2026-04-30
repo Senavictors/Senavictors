@@ -1,67 +1,66 @@
-# Olá, eu sou o Victor Sena 👋
+# Hi, I'm Victor Sena 👋
 
-💻 Desenvolvedor Full Stack na Allcom Telecom <br>
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+💻 Full Stack Developer at Allcom Telecom <br>
+🎓 Degree in Systems Analysis and Development
 
-🌐 [Acesse meu Portifolio](https://portifolio-victor-sena.vercel.app/)
+🌐 [Access my Portfolio](https://portifolio-victor-sena.vercel.app/)
 
-Desenvolvedor Backend com foco em PHP/Laravel e experiência full stack com Next.js e TypeScript. Atuo no desenvolvimento de APIs REST, modelagem de domínios transacionais, autenticação, autorização e regras de negócio. Nos projetos pessoais, entreguei um CRM com 9 frentes operacionais, um sistema financeiro com transferências atômicas, um SaaS clínico para fisioterapeutas e um engine open-source de SVG widgets para GitHub READMEs.
+Backend Developer focused on PHP/Laravel with full-stack experience in Next.js and TypeScript. I specialize in developing REST APIs, transactional domain modeling, authentication, authorization, and complex business logic. In my personal projects, I have delivered a CRM with 9 operational fronts, a financial system with atomic transfers, a clinical SaaS for physiotherapists, and an open-source SVG widget engine for GitHub READMEs.
 
 ---
 
-## 🚀 Projetos
-
+## 🚀 Projects
 
 ### [GitWidgets](https://github.com/gitwidgets-org/gitwidgets)
-Engine open-source em TypeScript para gerar widgets SVG dinâmicos em READMEs do GitHub (stats, streak, linguagens, activity graph), com tema unificado e entrega híbrida (API + GitHub Action).
+An open-source TypeScript engine to generate dynamic SVG widgets for GitHub READMEs (stats, streak, languages, activity graph), featuring a unified theme and hybrid delivery (API + GitHub Action).
 
 `TypeScript` `Cloudflare Workers` `Hono` `Next.js 16`
 
-- API pública + GitHub Action + dashboard com playground
-- Cache multi-layer (CDN → KV → D1) com respostas rápidas em cache
-- Sistema de temas tipado (sem cores hard-coded)
-- Uso otimizado da API do GitHub com ETag + pool de tokens
-- Fallback inteligente: sempre retorna SVG, nunca erro no README
+- Public API + GitHub Action + dashboard with playground.
+- Multi-layer caching (CDN → KV → D1) ensuring fast cached responses.
+- Typed theme system (no hard-coded colors).
+- Optimized GitHub API usage with ETag + token pooling.
+- Smart fallback: always returns an SVG, never an error on the README.
 
 ---
 
 ### [Watch CRM](https://github.com/Senavictors/watch-crm)
-CRM full stack para centralizar catálogo, pedidos, envios, pós-venda e metas comerciais de uma operação de relojoaria.
+Full-stack CRM to centralize catalog, orders, shipping, after-sales, and commercial goals for a watchmaking operation.
 
 `Laravel 12` `Next.js 16` `MySQL` `Docker`
 
-- 9 frentes operacionais consolidadas em um único sistema
-- Pedidos multi-itens com cálculo automático de totais e vínculo por vendedor
-- 4 papéis de acesso com 50+ permissões, policies por registro e ownership
-- Pós-venda com garantias, trocas, devoluções e fila de reenvio
-- Metas de vendas com filtros por catálogo e progresso em tempo real
+- 9 operational fronts consolidated into a single system.
+- Multi-item orders with automatic total calculation and sales rep linking.
+- 4 access roles with 50+ permissions, record-level policies, and ownership.
+- After-sales module with warranties, exchanges, returns, and reshipping queue.
+- Sales goals with catalog filters and real-time progress tracking.
 
 ---
 
 ### [Finance Controller](https://github.com/Senavictors/Finance-Controller)
-Sistema full stack de gestão financeira pessoal para centralizar contas, transações, recorrências e analytics.
+Full-stack personal finance management system to centralize accounts, transactions, recurring bills, and analytics.
 
 `Next.js 16` `TypeScript` `PostgreSQL` `Prisma 7` `Tailwind CSS`
 
-- Arquitetura em camadas: Route Handlers → Use Cases → Domain Rules → Repositories
-- Transferências atômicas entre contas vinculadas por transferId
-- Recorrências com apply idempotente e logs de execução
-- Dashboard customizável com drag-and-drop e layout persistido por usuário
-- 25 route handlers cobrindo autenticação, finanças, analytics e dashboard
+- Layered architecture: Route Handlers → Use Cases → Domain Rules → Repositories.
+- Atomic transfers between linked accounts via `transferId`.
+- Recurring transactions with idempotent application and execution logs.
+- Customizable dashboard with drag-and-drop and user-persisted layout.
+- 25 route handlers covering auth, finance, analytics, and dashboard.
 
 ---
 
 ### [PhysioFlow](https://github.com/Senavictors/PhisioFlow)
-SaaS de gestão clínica para fisioterapeutas que centraliza todo o fluxo
-Cadastro → Atendimento → Evolução → Documentação → Cobrança.
+A clinical management SaaS for physiotherapists that centralizes the entire workflow:
+Registration → Consultation → Progress Notes → Documentation → Billing.
 
 `Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS` `Zod`
 
-- Arquitetura multi-tenant em camadas (UI → Route Handlers → Use Cases → Domain → Repositories) com isolamento total por `userId` em todas as queries
-- Registro SOAP, timeline de evolução e geração on-demand de laudos PDF via `@react-pdf/renderer`
-- Multi-modalidade clínica: planos de tratamento por área/especialidade com cobrança avulsa ou em pacote
-- Financeiro integrado: pagamentos com snapshot `expectedFee`, dashboard de recebido vs previsto, série temporal e quebras por local/área
-- Integrações nativas: Gmail (App Password com AES-256-GCM) para envio de avisos/laudos e Google Calendar (OAuth) com sync por sessão
+- Layered multi-tenant architecture (UI → Route Handlers → Use Cases → Domain → Repositories) with total isolation via `userId` in all queries.
+- SOAP notes, evolution timeline, and on-demand PDF report generation via `@react-pdf/renderer`.
+- Clinical multi-modality: treatment plans by area/specialty with single or package billing.
+- Integrated finance: payments with `expectedFee` snapshots, received vs. projected dashboard, time series, and breakdowns by location/area.
+- Native integrations: Gmail (App Password with AES-256-GCM) for notifications/reports and Google Calendar (OAuth) with session sync.
 
 ---
 
@@ -76,12 +75,12 @@ Cadastro → Atendimento → Evolução → Documentação → Cobrança.
       <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senavictors&layout=compact&theme=tokyonight" />
     </td>
     <td align="center">
-      <img width="95%" src="https://streak-stats.demolab.com?user=senavictors&theme=tokyonight&locale=pt_BR" />
+      <img width="95%" src="https://streak-stats.demolab.com?user=senavictors&theme=tokyonight&locale=en" />
     </td>
   </tr>
 </table>
 
-## 🛠️ Principais Tecnologias
+## 🛠️ Main Stack
 
 ### **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -96,7 +95,7 @@ Cadastro → Atendimento → Evolução → Documentação → Cobrança.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
-### **Banco de Dados & DevOps**
+### **Database & DevOps**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
@@ -105,7 +104,7 @@ Cadastro → Atendimento → Evolução → Documentação → Cobrança.
 
 ---
 
-## 📫 Contato
+## 📫 Contact Me
 
 <div>
   <a href="https://www.linkedin.com/in/senavictors/" target="_blank">
