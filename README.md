@@ -68,12 +68,12 @@ Registration → Consultation → Progress Notes → Documentation → Billing.
 
 <table align="center">
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <img width="95%" src="https://github-readme-stats.vercel.app/api?username=senavictors&show_icons=true&theme=tokyonight" />
-    </td>
-    <td align="center">
+    </td> -->
+    <!-- <td align="center">
       <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senavictors&layout=compact&theme=tokyonight" />
-    </td>
+    </td> -->
     <td align="center">
       <img width="95%" src="https://streak-stats.demolab.com?user=senavictors&theme=tokyonight&locale=en" />
     </td>
